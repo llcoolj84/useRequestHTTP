@@ -1,0 +1,22 @@
+{
+  "name": "use-request-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llcoolj84/useRequestHTTP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llcoolj84/useRequestHTTP/issues"
+  },
+  "homepage": "https://github.com/llcoolj84/useRequestHTTP#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
